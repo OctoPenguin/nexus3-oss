@@ -6,6 +6,7 @@
 [![GitHub licence](https://img.shields.io/github/license/ansible-ThoTeam/nexus3-oss)](https://github.com/ansible-ThoTeam/nexus3-oss/blob/main/LICENSE.md)
 # Ansible Role: Nexus 3 OSS
 
+> [!note] Forked as a Backup from the original [repository](https://github.com/ansible-ThoTeam/nexus3-oss). Please, see the original repository if it is still available.
 This role installs and configures Nexus Repository Manager OSS version 3.x.
 
 All configuration can be updated by re-running the role, except for the [blobstores](https://help.sonatype.com/display/NXRM3/Repository+Management#RepositoryManagement-BlobStores) related settings, which are immutable in nexus.
